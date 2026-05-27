@@ -39,9 +39,9 @@ Acredito que bom código é aquele que é legível, eficiente e resolve problema
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kainaferreira&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KainaFerreira&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kainaferreira&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KainaFerreira&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
 
 </div>
 
@@ -51,7 +51,7 @@ Acredito que bom código é aquele que é legível, eficiente e resolve problema
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_INSTAGRAM)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/01ferreira_17)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kainaferreira)
 
 </div>

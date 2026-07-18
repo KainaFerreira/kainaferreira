@@ -1,6 +1,8 @@
-# 👋 Olá! Bem-vindo ao meu GitHub
+# 👋 Olá, eu sou Kainã Ferreira
 
-> **"Desenvolver é enxergar possibilidades onde antes existiam apenas problemas"** — e esse é meu prazer, esse mundo dos códigos me fascina!!
+### Desenvolvedor Front-end em evolução | React • JavaScript • Firebase
+
+> **"Desenvolver é enxergar possibilidades onde antes existiam apenas problemas"** — Apaixonado por tecnologia e por transformar ideias em soluções através do código.
 
 ---
 
@@ -28,6 +30,19 @@ Gosto de aprender construindo. Cada projeto é uma oportunidade para evoluir min
 
 ---
 
+## 📌 Projetos em destaque
+
+💈 BarberControl
+Sistema de gestão para barbearias desenvolvido em React.
+
+📄 Manual Digital
+Sistema para leitura e confirmação digital de documentos.
+
+🌐 Site Institucional
+Landing pages modernas para empresas locais.
+
+---
+
 ## 💼 O que estou desenvolvendo
 
 🎨 Interfaces responsivas com React
@@ -39,6 +54,14 @@ Gosto de aprender construindo. Cada projeto é uma oportunidade para evoluir min
 🚀 Projetos pessoais para colocar o aprendizado em prática
 
 ---
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KainaFerreira&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KainaFerreira&layout=compact&theme=tokyonight"/>
+
+</div>
 
 # 💬 Vamos conversar?
 
@@ -52,7 +75,7 @@ Se você gostou de algum projeto ou acredita que podemos trabalhar juntos, será
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/01ferreira_17)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kainaferreira)
-[![Email](https://img.shields.io/badge/Email-kaina@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krssj234@gmail.com)
+[![Email](https://img.shields.io/badge/Email-krssj234@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krssj234@gmail.com)
 
 </div>
 

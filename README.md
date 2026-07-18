@@ -55,24 +55,6 @@ Landing pages modernas para empresas locais.
 
 ---
 
-<div align="center">
-
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=KainaFerreira&show_icons=true&theme=tokyonight"
-    alt="Estatísticas do GitHub de Kainã Ferreira"
-  />
-
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KainaFerreira&layout=compact&theme=tokyonight"
-    alt="Linguagens mais utilizadas por Kainã Ferreira"
-  />
-
-</div>
-
----
-
 # 💬 Vamos conversar?
 
 Atualmente estou em busca da minha primeira oportunidade como Desenvolvedor Front-end e sempre aberto para aprender, colaborar e participar de novos projetos.

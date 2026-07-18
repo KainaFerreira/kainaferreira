@@ -1,14 +1,16 @@
 # 👋 Olá! Bem-vindo ao meu GitHub
 
-> **"Desenvolver é ser Promissor em enxergar possibilidades"** — e esse é meu prazer, esse mundo dos códigos me fascina!!
+> **"Desenvolver é enxergar possibilidades onde antes existiam apenas problemas"** — e esse é meu prazer, esse mundo dos códigos me fascina!!
 
 ---
 
 ## 🚀 Sobre Mim
 
-Sou um Programador Full Stack apaixonado por criar soluções web robustas e escaláveis. Com experiência em todo o ciclo de desenvolvimento — do frontend ao backend — transformo ideias em aplicações que funcionam perfeitamente.
+Olá! Sou o Kainã Ferreira, desenvolvedor em formação e apaixonado por tecnologia.
 
-Acredito que bom código é aquele que é legível, eficiente e resolve problemas reais. Cada linha que escrevo é pensada com cuidado e propósito.
+Atualmente estudo JavaScript, React e desenvolvimento Full Stack, buscando transformar o conhecimento em projetos reais que resolvam problemas do dia a dia.
+
+Gosto de aprender construindo. Cada projeto é uma oportunidade para evoluir minha lógica, organização de código e visão sobre desenvolvimento de software.
 
 ---
 
@@ -26,34 +28,42 @@ Acredito que bom código é aquele que é legível, eficiente e resolve problema
 
 ---
 
-## 🎯 O que eu faço
+## 💼 O que estou desenvolvendo
 
-- 🎨 **Interfaces Modernas**: Criação de UIs responsivas e intuitivas
-- ⚙️ **APIs Robustas**: Backend escalável e bem estruturado
-- 🔗 **Full Stack**: Integração perfeita entre frontend e backend
-- 💡 **Soluções Criativas**: Transformando desafios em oportunidades
+🎨 Interfaces responsivas com React
+
+🧠 Aplicações focadas em resolver problemas reais
+
+📚 Evolução constante em JavaScript e desenvolvimento Full Stack
+
+🚀 Projetos pessoais para colocar o aprendizado em prática
 
 ---
 
-## 🌐 Conecte-se Comigo
+# 💬 Vamos conversar?
+
+Atualmente estou em busca da minha primeira oportunidade como Desenvolvedor Front-end e sempre aberto para aprender, colaborar e participar de novos projetos.
+
+Se você gostou de algum projeto ou acredita que podemos trabalhar juntos, será um prazer conversar!
+
+## 📫 Contato
 
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/01ferreira_17)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kainaferreira)
+[![Email](https://img.shields.io/badge/Email-kaina@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krssj234@gmail.com)
 
 </div>
 
 ---
 
-## 💬 Quiser bater um papo?
-
-Estou sempre aberto a novas oportunidades, colaborações e conversas sobre tecnologia. Se você tem um projeto interessante ou quer trocar ideias, é só chamar!
-
 <div align="center">
 
-**Procurando um desenvolvedor? Vamos trabalhar juntos!** 🚀
+### 🚀 Obrigado por visitar meu perfil!
 
-*Feito com ❤️ e muito café ☕*
+*"A tecnologia muda o mundo. Aprender todos os dias muda quem a constrói."*
+
+⭐ Se algum projeto chamou sua atenção, fique à vontade para explorá-lo.
 
 </div>
